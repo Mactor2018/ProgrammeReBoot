@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+# 帮助文档 [Help document]
+- There are 2 languages : Chinese & English.
 
-You can use the [editor on GitHub](https://github.com/Mactor2018/ProgrammeReBoot/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to ProgrammeReBoot project on Github!!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+这里采用了2种方法来进行程序重启，点击[链接](https://github.com/Mactor2018/ProgrammeReBoot) 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+### 如何获取
+
+不必担心，点击Fork或Clone/Download Zip即可获取，如果您登着GitHub账号，那么请您顺手打个Star吧！！
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+  MessageBox("给个Star吧!!","STAR!!",MB_OK);
+  printf("给个Star吧!");
+  std::cout<<"给个Star吧!!!"<<endl;
+  puts("给个Star吧!");
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 如何使用
+  
+  请您放心，只要您有一点C++基础，那么肯定看得懂我的代码！如果你担心看不懂中文，那么请点击**Pull requests**选择ENG-Version，那里有英文版本的！
 
-### Jekyll Themes
+### 相关编译&运行环境
+  1. Visual Studio 2017 C + Windows 10 x64 1803 编译通过
+  
+  2.相关设置请看 ***maincpp.cpp (ENG-Version看main.cpp)***
+  
+---------------------------------------------------------------------------------------------------------
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mactor2018/ProgrammeReBoot/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## translated by BAIDU translator 
 
-### Support or Contact
+There are two ways to restart the program and click on [link] (https://github.com/Mactor2018/ProgrammeReBoot)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## How to get it?
+Don't worry, just click Fork or Clone / Download Zip to get it. If you have a GitHub account, please click the 'star'!
+
+## How to use it?
+Please rest assured that as long as you have a little C++ foundation, then you can understand my code! If you are worried about not understanding Chinese, please click on ** Pull requests ** to select ENG-Version, where there is an English version!
+## Compile and run environment
+1. Visual Studio 2017 C + Windows 10 x64 1803 compile and pass
+2. related settings please see ***maincpp.cpp (ENG-Version main.cpp)***
+
